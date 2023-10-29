@@ -1,0 +1,24 @@
+.title{
+    background-color: rgb(240, 240, 240);
+    width: auto;
+    margin: 20px;
+    padding: 25px 80px;
+    border-radius: 50px;
+}
+h1{
+    color: rgb(22, 0, 122);
+    text-align: center;
+    font-size: 50px;
+    margin: 20px;
+    width: auto;
+    align-items: center;
+}
+h2{
+    color: rgb(87, 13, 68);
+    text-align: center;
+    margin: 0px;
+    width: auto;
+    padding: 20px;
+    border-radius: 30px;
+    background-color: rgba(126, 124, 18, 0.562);
+}

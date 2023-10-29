@@ -6,14 +6,15 @@ import { UserPassword } from './resources/UserPassword';
 import { LoginButton } from './resources/LoginButton';
 
 function App() {
-  return (
-    <>
-      <DataBaseTitle/>
-      <UserName/>
-      <UserPassword/>
-      <LoginButton/>
-    </>
-  );
+    return (
+        <>
+            <DataBaseTitle/>
+
+            <UserName/>
+            <UserPassword/>
+            <LoginButton/>
+        </>
+    );
 }
 
 export default App;
