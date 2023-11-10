@@ -1,0 +1,12 @@
+input {
+    margin: 15px;
+    padding: 10px 15px;
+    border-radius: 10px;
+    background-color: rgb(248, 240, 229);
+    color: rgb(0, 0, 0);
+    width: 75%;
+    font-size: larger;
+}
+input:hover {
+    color: blueviolet;
+}

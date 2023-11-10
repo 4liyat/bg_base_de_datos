@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@500');
 
 body {
-  background-color: rgb(78, 108, 163);
-  font-family: 'Playpen Sans', cursive;
-  display: flex;
-  justify-content: center;
+    background-color: rgb(78, 108, 163);
+    font-family: 'Playpen Sans', cursive;
 }

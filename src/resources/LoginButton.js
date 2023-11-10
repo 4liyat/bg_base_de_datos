@@ -1,6 +1,8 @@
+import './LoginButton.css'
+
 function LoginButton() {
     return (
-    <button>Enter</button>
+    <button class='Boton'>Enter</button>
     );
 }
 
